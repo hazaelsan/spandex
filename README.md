@@ -9,6 +9,12 @@ Supported formats
 * TextExpander
 * AutoKey
 
+Requirements
+------------
+
+* [go-plist](https://github.com/DHowett/go-plist)
+* [glog](https://github.com/golang/glog)
+
 Running it
 ----------
 
